@@ -6,7 +6,7 @@ This app captures and recognizes your face in a realtime video
 
 ### Screenshot
 
-<img src="./images/preview.jpg"/>
+<img src="./images/preview.jpg" height=400 />
 
 ## How To
 
